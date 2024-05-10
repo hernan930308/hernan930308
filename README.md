@@ -1,4 +1,4 @@
-# 👋 Hi my name is Hernán Darío Burbano Sambony
+# 👋 Hi 
 
 Dedicated and results-driven **Industrial Automation Engineer** with experience in the field of **machine learning**, **computer vision** 🤖 and **web development** 👨🏻‍💻. I like to understand these sciences in depth from their base sciences when necessary.
 
